@@ -1,3 +1,2 @@
 This is the correct first line
 This is the correct second line
-BAD LINE: this should not be here
