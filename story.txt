@@ -1,2 +1,2 @@
-Once upon a time, I learned Git.
-it helps me to undo my mistakes
+This is the correct first line
+This is the correct second line
