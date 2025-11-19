@@ -1,3 +1,2 @@
 Once upon a time, I learned Git.
 it helps me to undo my mistakes
-this line was wrong and should be removed
